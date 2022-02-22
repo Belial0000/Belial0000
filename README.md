@@ -26,5 +26,10 @@
 ![trello](https://img.shields.io/badge/-trello-050f1d?style=for-the-badge&logo=trello&logoColor=dbaa81)
 ![VisualStudioCode](https://img.shields.io/badge/-vscode-050f1d?style=for-the-badge&logo=VisualStudioCode&logoColor=dbaa81)
 <br/><hr/>
-contact me
-https://wa.me/79772964601
+
+### контакты
+
+![whatsapp](https://img.shields.io/badge/-whatsapp-050f1d?style=plastic&logo=whatsapp)(https://wa.me/79772964601)
+![telegram](https://img.shields.io/badge/-telegram-050f1d?style=plastic&logo=telegram)(https://t.me/Beliash5)
+![vk](https://img.shields.io/badge/-vk-050f1d?style=plastic&logo=vk&logoColor=0077fe)(https://vk.com/npocto_4ill)
+![linkedin](https://img.shields.io/badge/-linkedin-050f1d?style=plastic&logo=linkedin)(https://vk.com/npocto_4ill)

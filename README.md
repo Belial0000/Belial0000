@@ -1,10 +1,9 @@
-### Hi there 👋
-
 [![Header](https://github.com/Belial0000/Belial0000/blob/main/assets/newheader.gif)](https://wa.me/79772964601)
 <br/>
 
-about me
+### Привет! Меня зовут Артём, я fullstack разработчик
 
+занимаюсь web-разрабокой и познаю новые технологии, в настоящее время изучаю TypeScript
 <br/><hr/>
 <br/>
 
@@ -23,6 +22,8 @@ about me
 
 ![jest](https://img.shields.io/badge/-jest-050f1d?style=for-the-badge&logo=jest&logoColor=dbaa81)
 ![git](https://img.shields.io/badge/-git-050f1d?style=for-the-badge&logo=git&logoColor=dbaa81)
+![figma](https://img.shields.io/badge/-figma-050f1d?style=for-the-badge&logo=figma&logoColor=dbaa81)
+![trello](https://img.shields.io/badge/-trello-050f1d?style=for-the-badge&logo=trello&logoColor=dbaa81)
 ![VisualStudioCode](https://img.shields.io/badge/-vscode-050f1d?style=for-the-badge&logo=VisualStudioCode&logoColor=dbaa81)
 <br/><hr/>
 contact me

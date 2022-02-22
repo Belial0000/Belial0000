@@ -13,7 +13,7 @@ about me
 ### front
 
 ![Javascript](https://img.shields.io/badge/-Javascript-050f1d?style=for-the-badge&logo=Javascript&logoColor=dbaa81)![typescript](https://img.shields.io/badge/-typescript-050f1d?style=for-the-badge&logo=typescript&logoColor=dbaa81)![React](https://img.shields.io/badge/-React-050f1d?style=for-the-badge&logo=React&logoColor=dbaa81)![Redux](https://img.shields.io/badge/-Redux-050f1d?style=for-the-badge&logo=Redux&logoColor=dbaa81)![sass](https://img.shields.io/badge/-sass-050f1d?style=for-the-badge&logo=sass&logoColor=dbaa81)![css3](https://img.shields.io/badge/-css3-050f1d?style=for-the-badge&logo=css3&logoColor=dbaa81)![mui](https://img.shields.io/badge/-mui-050f1d?style=for-the-badge&logo=mui&logoColor=dbaa81)
-![antdesign](https://img.shields.io/badge/-antdesign-050f1d?style=for-the-badge&logo=antdesign&logoColor=dbaa81)![bootstrap](https://img.shields.io/badge/-bootstrap-050f1d?style=for-the-badge&logo=bootstrap&logoColor=dbaa81)<br>
+![bootstrap](https://img.shields.io/badge/-bootstrap-050f1d?style=for-the-badge&logo=bootstrap&logoColor=dbaa81)<br>
 
 ### back
 

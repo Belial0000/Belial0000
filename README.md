@@ -1,6 +1,5 @@
 [![Header](https://github.com/Belial0000/Belial0000/blob/main/assets/newheader.gif)](https://wa.me/79772964601)
 <br/>
-
 ### Привет! Меня зовут Артём, я fullstack разработчик
 
 - 📫 как связаться zakharovartem0000@gmail.com

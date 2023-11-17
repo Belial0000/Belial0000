@@ -24,4 +24,3 @@
 
 [![whatsapp](https://img.shields.io/badge/-whatsapp-050f1d?style=plastic&logo=whatsapp)](https://wa.me/79772964601)
 [![telegram](https://img.shields.io/badge/-telegram-050f1d?style=plastic&logo=telegram)](https://t.me/Beliash5)
-[![vk](https://img.shields.io/badge/-vk-050f1d?style=plastic&logo=vk&logoColor=0077fe)](https://vk.com/npocto_4ill)
